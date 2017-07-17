@@ -11,9 +11,9 @@ Login to the editor:&nbsp;**[app.cloudcannon.com](https://app.cloudcannon.com/)*
 
 > If you would like an account, please email&nbsp;[spj4g@virginia.edu](mailto:spj4g@virginia.edu) with your feedback.
 
-### Features
+### Documentation
 
-Explore more of ChatApp by reading about our features:
+Explore 
 
 #### Media
 
