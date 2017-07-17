@@ -1,18 +1,16 @@
 ---
-title: Images
-category: Media
+title: Introduction 
+category: Core 1
 order: 1
 ---
 
-Share images with your friends! Send photos and pictures from your computer, phone or camera.
+Welcome! Click here for a quick reminder on what you'll learn & do in the Get Ready Core.
 
-> Images are stored until you choose to remove them.
+Nearly everyone starts SHUTi wondering whether an online program can actually help them solve their insomnia. It’s an important question and one we will answer in detail. But the easy answer is – Yes!
 
-To share an image:
+First, let’s start by completing the interaction below to find out what you already know about sleep problems and sleep treatments.
 
-1. Open a message with someone
-2. Select the **Send Media** button
-3. Pick an image
+Once you're done, click the yellow Next button under the interaction at the bottom of the page to continue.
 
 ![](//placehold.it/800x600)
 
