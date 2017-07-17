@@ -15,10 +15,10 @@ Login to the editor:&nbsp;**[app.cloudcannon.com](https://app.cloudcannon.com/)*
 
 > Explore the [content editor **documentation**](//docs.cloudcannon.com/)
 
-#### Media
+### Media
 
 Upload images and assets to S3 via the [BHT AWS Console](//aws.uvabht.org) so that you can reference them here.
 
-#### Markdown Cheat Sheet
+### Markdown Cheat Sheet
 
-The editor uses Github-flavored Markdown. See the formatting guide.
+The editor uses Github-flavored Markdown. See the [formatting guide](https://guides.github.com/features/mastering-markdown/#examples).
