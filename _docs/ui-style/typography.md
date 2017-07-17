@@ -5,7 +5,7 @@ order: 1
 ---
 
 
-##### HEADINGS
+## HEADINGS
 
 # Heading Level 1
 
@@ -19,13 +19,14 @@ order: 1
 
 ###### Heading level 6
 
+&nbsp;
 
 ##### TEXT FORMATTING
 
 Paragraph Text. Lorem ipsum dolor sit amet, adipiscing elit. in massa et elit bibendum aliquam. Mauris ex nisi, lacinia et tellus vitae, dignissim tempus urna. Nunc ultricies, arcu porta posuere fringilla, neque metus interdum mauris, quis rhoncus velit ipsum nec libero. Etiam sapien sem, lobortis vitae semper id, hendrerit eu metus. Pellentesque sed ullamcorper ante. Ut euismod sagittis risus ut sodales. Proin nec venenatis velit, nec dictum tellus. Fusce cursus tristique sagittis. Nulla facilisi. Nunc tristique volutpat velit, in molestie arcu pharetra finibus.
 
-*Bold Text*
+**Bold Text**
 
-_Italicized Text_
+*Italicized Text*
 
 [Hyperlink](#)
