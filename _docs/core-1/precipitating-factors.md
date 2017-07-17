@@ -1,5 +1,5 @@
 ---
-title: The Three P's: Precipitating Factors
+title: The Three Ps Precipitating Factors
 category: Core 1
 order: 1
 ---
