@@ -1,27 +1,21 @@
 ---
-title: Introduction 
-category: Core 1
+title: Typography 
+category: UI Styles
 order: 1
 ---
 
-Welcome! Click here for a quick reminder on what you'll learn & do in the Get Ready Core.
+# Typography
 
-Nearly everyone starts SHUTi wondering whether an online program can actually help them solve their insomnia. It’s an important question and one we will answer in detail. But the easy answer is – Yes!
+##### Headings
 
-First, let’s start by completing the interaction below to find out what you already know about sleep problems and sleep treatments.
+# Heading Level 1
 
-Once you're done, click the yellow Next button under the interaction at the bottom of the page to continue.
+## Heading Level 2
 
-![](//placehold.it/800x600)
+### Heading Level 3
 
-Supported types:
+#### Heading Level 4
 
-* JPEG
-* PNG
-* BMP
-* GIF
+##### Heading Level 5
 
-Unsupported types:
-
-* SVG
-* WEBP
+###### Heading level 6
