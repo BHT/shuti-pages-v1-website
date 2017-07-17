@@ -9,4 +9,4 @@ order: 1
 
 Hover over each of the characters to find out their precipitating factors.
 
-![](//dev.shuti.org/images/shuti/core_2_page_4b_bobbie.png)![](//dev.shuti.org/images/shuti/core_4_page_4b_jasmine.png)![](//dev.shuti.org/images/shuti/core_4_page_4b_mark.png)
+![](//dev.shuti.org/images/shuti/core_2_page_4b_bobbie.png)![](//dev.shuti.org/images/shuti/core_2_page_4b_jasmine.png)![](//dev.shuti.org/images/shuti/core_2_page_4b_mark.png)
