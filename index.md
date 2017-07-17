@@ -13,16 +13,12 @@ Login to the editor:&nbsp;**[app.cloudcannon.com](https://app.cloudcannon.com/)*
 
 ### Documentation
 
-Explore the [content editor documentation](
+> Explore the [content editor **documentation**](//docs.cloudcannon.com/)
 
 #### Media
 
-Send images, videos and other media to people. Sources include your computer, phone and Facebook.
+Upload images and assets to S3 via the [BHT AWS Console](//aws.uvabht.org) so that you can reference them here.
 
-#### Contact Syncing
+#### Markdown Cheat Sheet
 
-Sync your contact list with your phone and/or Facebook contacts. Never lose your contacts between devices again!
-
-#### Devices
-
-ChatApp is available everywhere. Find out how to set it up on your all your devices.
+The editor uses Github-flavored Markdown. See the formatting guide.
