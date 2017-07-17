@@ -31,10 +31,14 @@ Paragraph Text. Lorem ipsum dolor sit amet, adipiscing elit. in massa et elit bi
 
 [Hyperlink](#)
 
-
 ##### UNORDERED LIST
-*   List Item
-*   List Item
-*   List Item
 
+* List Item
+* List Item
+* List Item
 
+##### ORDERED LIST
+
+1. One item
+2. Two item
+3. Three item
