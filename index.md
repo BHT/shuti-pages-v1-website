@@ -9,11 +9,11 @@ This is the **Content Editor** for SHUTi Older Adults. [Sign up](http://example.
 
 Login to the editor:&nbsp;**[app.cloudcannon.com](https://app.cloudcannon.com/)**
 
-> If you would like an account, please email&nbsp;[spj4g@virginia.edu](mailto:spj4g@virginia.edu) with your feedback.
+> If you would like an account, please email [spj4g@virginia.edu](mailto:spj4g@virginia.edu) with your feedback.
 
 ### Documentation
 
-Explore 
+Explore the [content editor documentation](
 
 #### Media
 
