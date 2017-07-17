@@ -5,7 +5,7 @@ order: 1
 ---
 
 
-##### **Headings**
+##### Headings
 
 # Heading Level 1
 
