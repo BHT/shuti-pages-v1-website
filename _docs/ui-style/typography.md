@@ -1,12 +1,11 @@
 ---
-title: Typography 
+title: Typography
 category: UI Styles
 order: 1
 ---
 
-# Typography
 
-##### Headings
+##### **Headings**
 
 # Heading Level 1
 
