@@ -25,3 +25,11 @@ Paragraph Text. Lorem ipsum dolor sit amet, adipiscing elit. in massa et elit bi
 *Italicized Text*
 
 [Hyperlink](#)
+
+
+##### UNORDERED LIST
+*   List Item
+*   List Item
+*   List Item
+
+
