@@ -3,7 +3,7 @@ title: Welcome
 ---
 
 
-This is the **Content Editor** for SHUTi Older Adults. [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
+This is the best&nbsp;**Content Editor** for SHUTi Older Adults. [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
 
 ### Getting Started
 
