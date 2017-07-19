@@ -1,6 +1,6 @@
 ---
 title: Predisposing Factors
-category: Core 1
+category: "Core 1"
 order: 2
 ---
 
