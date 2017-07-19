@@ -1,6 +1,6 @@
 ---
 title: "The Three P's: Precipitating Factors"
-category: Core 1
+category: "Core 1"
 order: 1
 ---
 
