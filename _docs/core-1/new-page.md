@@ -1,6 +1,6 @@
 ---
 title: New page
-category:
+category: Core-1
 order: 1
 ---
 
