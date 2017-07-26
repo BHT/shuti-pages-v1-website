@@ -2,6 +2,7 @@
 title: New page
 category: "Core 1"
 order: 1
+layout: shuti
 ---
 
 
