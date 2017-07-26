@@ -2,6 +2,7 @@
 title: Typography
 category: UI Styles
 order: 1
+layout: shuti
 ---
 
 
