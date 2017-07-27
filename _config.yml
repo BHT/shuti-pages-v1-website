@@ -31,6 +31,10 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENCE
+  - shuti
+  - scripts
+  - css
+  - images
 
 collections:
   docs:
