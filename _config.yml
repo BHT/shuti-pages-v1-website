@@ -31,10 +31,8 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENCE
-  - shuti
-  - scripts
-  - css
-  - images
+  - shuti/bower_components
+
 
 collections:
   docs:
